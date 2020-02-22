@@ -1,1 +1,2 @@
 
+var player = new Tone.Player("").toMaster();
